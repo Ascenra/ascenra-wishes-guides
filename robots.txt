@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ascenra-wishes-guides.pages.dev/sitemap.xml

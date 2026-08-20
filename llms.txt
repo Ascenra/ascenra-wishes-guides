@@ -1,0 +1,15 @@
+# ascenra-wishes-guides
+> Ascenra premium landing + SEO guides (exact ascenra-landings visuals)
+
+## Flagship
+- https://ascenra-wishes-guides.pages.dev/wishes
+
+## Guides
+- [Publish a wish online — put it into the world](https://ascenra-wishes-guides.pages.dev/publish-a-wish-online)
+- [Discover wishes from a public feed](https://ascenra-wishes-guides.pages.dev/discover-online-wishes)
+- [Grant a wish online — direct, not pledged](https://ascenra-wishes-guides.pages.dev/grant-a-wish-online)
+- [A wish community — distinct from ecommerce](https://ascenra-wishes-guides.pages.dev/wish-community-platform)
+- [Anonymous wish marketplace — privacy-minded giving](https://ascenra-wishes-guides.pages.dev/anonymous-wish-marketplace)
+
+## Commercial destination
+- https://ascenrads.com
